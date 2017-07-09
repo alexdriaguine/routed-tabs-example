@@ -1,0 +1,1 @@
+module.exports={"RTTabs":{"tabs":"_2EaQV","navigation":"_3e55Z","navigationContainer":"_3oZmF","arrow":"wPL4g","arrowContainer":"i_TGW","label":"_1yb8L","rippleWrapper":"_3c0W3","active":"_2LZ7Z","disabled":"_2gi1s","hidden":"_3kq1J","withIcon":"_1OFOx","withText":"_1Yf4A","icon":"_1LUZH","pointer":"_1xgdB","tab":"_26SP9","fixed":"_3bROj","inverse":"_33mT_"}}
